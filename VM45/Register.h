@@ -1,0 +1,14 @@
+//
+// Created by david.hunt on 9/5/2019.
+//
+
+#ifndef VM45ABSTRACTMACHINETEST1_C___REGISTER_H
+#define VM45ABSTRACTMACHINETEST1_C___REGISTER_H
+
+
+class Register {
+
+};
+
+
+#endif //VM45ABSTRACTMACHINETEST1_C___REGISTER_H
